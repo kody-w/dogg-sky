@@ -1,0 +1,13 @@
+{
+  "schema": "rapp/1",
+  "rappid": "rappid:@kody-w/dogg-sky:b16ce2f0e74defcc82eb5e9c1ac505e45a2fd91fac2e4a75c7f7352a81cf5419",
+  "kind": "node",
+  "name": "dogg-sky",
+  "host": "github.com",
+  "owner": "kody-w",
+  "repo": "dogg-sky",
+  "github": "https://github.com/kody-w/dogg-sky",
+  "parent_rappid": "rappid:@kody-w/dogg:398899d4c850bc28fabe33115c52436def0d485c34753e9bbef06e4c283892b4",
+  "minted_at": "2026-08-28T17:51:03Z",
+  "notes": "Federated node of the global tick network; descends from the spine thread. Minted once per RAPP spec §6.2 — uuid-entropy tail, never a name-hash."
+}
