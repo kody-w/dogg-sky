@@ -4,22 +4,22 @@
  "fields": [
   {
    "name": "sunrise_utc_min",
-   "path": "payload.sky.atlanta.sunrise_utc_min",
+   "path": "sky.atlanta.sunrise_utc_min",
    "unit": "minutes (UTC clock-minute-of-day, 0-1439)"
   },
   {
    "name": "sunset_utc_min",
-   "path": "payload.sky.atlanta.sunset_utc_min",
+   "path": "sky.atlanta.sunset_utc_min",
    "unit": "minutes (UTC clock-minute-of-day, 0-1439)"
   },
   {
    "name": "day_length_min",
-   "path": "payload.sky.atlanta.day_length_min",
+   "path": "sky.atlanta.day_length_min",
    "unit": "minutes"
   },
   {
    "name": "moon_phase_pct",
-   "path": "payload.sky.atlanta.moon_phase_pct",
+   "path": "sky.atlanta.moon_phase_pct",
    "unit": "percent illuminated"
   }
  ],
