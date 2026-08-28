@@ -90,3 +90,19 @@ outlook, same clock — announce it on the spine's registry
 <!--trust-->
 No ratings yet — used this chain? [Rate it](../../issues/new?template=rate.yml): valid ratings publish automatically as verifiable frames.
 <!--/trust-->
+
+## Summon this node
+
+A MISSION chant — 14 words — carries the `sky:@kody-w/dogg-sky` dimension's identity, its tick, a hash prefix that pins the exact frame, and a quantized snapshot of sunrise_utc_min, sunset_utc_min, day_length_min.
+
+```
+KNELL CAST BRINK GLEAM FORGE ASTRAL REIGN ANVIL MAIM REMORSE VAST GUILE QUALM WIELD
+```
+
+`dogg:1:14:BIALVJAAAVx_wB2uVUxbGQOE`
+
+Tap to decode: [https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALVJAAAVx_wB2uVUxbGQOE](https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALVJAAAVx_wB2uVUxbGQOE)
+
+This chant carries three things: which dimension it names (`sky:@kody-w/dogg-sky`), which tick and frame it was cut from (tick 1, hash prefix `171ff`), and the field values above, quantized (log-quantized, ~0.3% relative (1e-6 … 1e15)) — enough to recognize the node and sanity-check a claim about it without touching the network.
+
+This is a snapshot of one tick (tick 1) — the numbers move as the stream advances, so re-mint with `python3 tools/dogg.py mission sky:@kody-w/dogg-sky` for the latest.
