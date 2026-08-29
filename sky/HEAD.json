@@ -1,8 +1,8 @@
 {
-  "count": 3,
+  "count": 4,
   "sealed_epochs": 0,
   "epoch_size": 288,
   "stream_id": "sky:@kody-w/dogg-sky",
-  "head_frame": "e417b461a13feb6a6dd41d5c8d21b6121490c2233d66199a2799bcb3f3e9b5ea",
-  "updated": "2026-08-28T20:08:04.716Z"
+  "head_frame": "432ad4d15462fb54873eeea4c29b82323b549b83629afa1f9773e5280fddb000",
+  "updated": "2026-08-29T12:38:04.541Z"
 }
