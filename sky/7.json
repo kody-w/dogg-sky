@@ -1,0 +1,94 @@
+{
+  "spec": "rapp/1",
+  "kind": "sky.snapshot",
+  "stream_id": "sky:@kody-w/dogg-sky",
+  "seq": 7,
+  "utc": "2026-09-02T11:09:04.267Z",
+  "payload": {
+    "tick": 823,
+    "tick_frame": "cacbcde22e5c950ccba37d85a3c4f4de12c1b0389a0ef28bf439451308cc0862",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-02T11:09:04.267Z",
+    "date": "2026-09-02",
+    "sky": {
+      "atlanta": {
+        "lat": "33.7490",
+        "lon": "-84.3880",
+        "sunrise_utc_min": 672,
+        "sunset_utc_min": 2,
+        "day_length_min": 770,
+        "moon_phase_pct": "68.8",
+        "moon_age_days": "20.34"
+      },
+      "new_york": {
+        "lat": "40.7128",
+        "lon": "-74.0060",
+        "sunrise_utc_min": 624,
+        "sunset_utc_min": 1407,
+        "day_length_min": 783,
+        "moon_phase_pct": "68.8",
+        "moon_age_days": "20.34"
+      },
+      "london": {
+        "lat": "51.5074",
+        "lon": "-0.1278",
+        "sunrise_utc_min": 315,
+        "sunset_utc_min": 1125,
+        "day_length_min": 810,
+        "moon_phase_pct": "68.8",
+        "moon_age_days": "20.34"
+      },
+      "tokyo": {
+        "lat": "35.6762",
+        "lon": "139.6503",
+        "sunrise_utc_min": 1214,
+        "sunset_utc_min": 548,
+        "day_length_min": 773,
+        "moon_phase_pct": "68.8",
+        "moon_age_days": "20.34"
+      },
+      "sydney": {
+        "lat": "-33.8688",
+        "lon": "151.2093",
+        "sunrise_utc_min": 1212,
+        "sunset_utc_min": 458,
+        "day_length_min": 686,
+        "moon_phase_pct": "68.8",
+        "moon_age_days": "20.34"
+      },
+      "nairobi": {
+        "lat": "-1.2921",
+        "lon": "36.8219",
+        "sunrise_utc_min": 210,
+        "sunset_utc_min": 935,
+        "day_length_min": 725,
+        "moon_phase_pct": "68.8",
+        "moon_age_days": "20.34"
+      },
+      "sao_paulo": {
+        "lat": "-23.5505",
+        "lon": "-46.6333",
+        "sunrise_utc_min": 556,
+        "sunset_utc_min": 1256,
+        "day_length_min": 700,
+        "moon_phase_pct": "68.8",
+        "moon_age_days": "20.34"
+      },
+      "reykjavik": {
+        "lat": "64.1466",
+        "lon": "-21.9426",
+        "sunrise_utc_min": 374,
+        "sunset_utc_min": 1241,
+        "day_length_min": 868,
+        "moon_phase_pct": "68.8",
+        "moon_age_days": "20.34"
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "eb6f55809e1017b0ce042efb7312ec2a9eab3a6bd7d18cde22b28e62f62385db",
+  "prev": "2f15aa3e861d7ce0be1e88911e7f5337eec35044eba4dc3009b4d0cebd15bcda",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ee450294efaa8e7ecdea4c3610aaf2fa64ae61f82b6823dfff304827f8fcd201"
+}
